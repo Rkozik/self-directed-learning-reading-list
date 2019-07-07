@@ -8,5 +8,8 @@ and make a final version of the reading list.
 
 ## Books
 * [The Sourcebook for Self-Directed Learning](https://www.amazon.com/Sourcebook-Self-Directed-Learning-Bill-Rothwell-ebook/dp/B004MDLJEC/)
-* [Self-directed Learning: Critical Practice](https://www.amazon.com/Self-directed-Learning-Critical-Rob-Collin-ebook/dp/B00F2H48VS)
+* [Self-directed Learning: Critical Practice](https://www.amazon.com/Self-directed-Learning-Critical-Rob-Collin-ebook/dp/B00F2H48VS/)
+* [The Science of Self-Learning: How to Teach Yourself Anything, Learn More in Less Time, and Direct Your Own Education](https://www.amazon.com/Science-Self-Learning-Yourself-Anything-Education-ebook/dp/B07KKLGYWF/)
 
+## Learning Methods
+* [SQ3R](https://en.wikipedia.org/wiki/SQ3R)
