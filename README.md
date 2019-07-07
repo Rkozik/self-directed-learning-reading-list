@@ -13,3 +13,4 @@ and make a final version of the reading list.
 
 ## Learning Methods
 * [SQ3R](https://en.wikipedia.org/wiki/SQ3R)
+* [Cornell Notes](https://en.wikipedia.org/wiki/Cornell_Notes)
