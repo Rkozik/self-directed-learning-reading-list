@@ -8,3 +8,5 @@ and make a final version of the reading list.
 
 ## Books
 * [The Sourcebook for Self-Directed Learning](https://www.amazon.com/Sourcebook-Self-Directed-Learning-Bill-Rothwell-ebook/dp/B004MDLJEC/)
+* [Self-directed Learning: Critical Practice](https://www.amazon.com/Self-directed-Learning-Critical-Rob-Collin-ebook/dp/B00F2H48VS)
+
