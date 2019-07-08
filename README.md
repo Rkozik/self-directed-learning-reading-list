@@ -30,6 +30,6 @@ and make a final version of the reading list.
 * Find the the top 3 books.
 * Find 1 or 2 historical books.
 * Create SQ3R outline for each.
-* Inspectionally skim each.
+* Inspectionally skim each, omitting the historical texts for now.
 * Analytically read the book which answers the most questions, inspectionally read the other two.
 * Inspectionally read the historical texts to clarify answers.
