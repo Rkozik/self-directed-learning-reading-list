@@ -11,6 +11,7 @@ and make a final version of the reading list.
 * [Self-directed Learning: Critical Practice](https://www.amazon.com/Self-directed-Learning-Critical-Rob-Collin-ebook/dp/B00F2H48VS/)
 * [The Science of Self-Learning: How to Teach Yourself Anything, Learn More in Less Time, and Direct Your Own Education](https://www.amazon.com/Science-Self-Learning-Yourself-Anything-Education-ebook/dp/B07KKLGYWF/)
 * [Make It Stick](https://www.amazon.com/Make-Stick-Peter-C-Brown-ebook/dp/B00JQ3FN7M)
+* [How To Read A Book](https://www.amazon.com/How-Read-Book-Touchstone-ebook/dp/B004PYDAPE)
 
 ## Learning Methods
 * [SQ3R](https://en.wikipedia.org/wiki/SQ3R)
