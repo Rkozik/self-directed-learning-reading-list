@@ -13,8 +13,10 @@ and make a final version of the reading list.
 * [Make It Stick](https://www.amazon.com/Make-Stick-Peter-C-Brown-ebook/dp/B00JQ3FN7M)
 * [How To Read A Book](https://www.amazon.com/How-Read-Book-Touchstone-ebook/dp/B004PYDAPE)
 
-## Learning Methods
+## Learning And Study Methods
 * [SQ3R](https://en.wikipedia.org/wiki/SQ3R)
 * [Cornell Notes](https://en.wikipedia.org/wiki/Cornell_Notes)
 * Speed Reading
 * Three P's of Learning
+* Space repititon (Anki)
+* Guided Notes
