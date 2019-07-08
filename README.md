@@ -34,3 +34,4 @@ and make a final version of the reading list.
 * Analytically read the book which answers the most questions, inspectionally read the other two.
 * Inspectionally read the historical texts to clarify answers.
 * If at this point there are any unanswered questions or new ones, utilize research papers to find answers.
+* If none exists, congratulations, you have a new hobby project.
