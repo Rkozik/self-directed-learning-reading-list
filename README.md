@@ -26,8 +26,7 @@ and make a final version of the reading list.
 * Topics
 * Tags
 
-## Reading Plan
-* Select a topic
+## Syntopical Reading Plan (per topic)
 * Find the the top 3 books.
 * Find 1 or 2 historical books.
 * Create SQ3R outline for each.
