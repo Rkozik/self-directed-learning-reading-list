@@ -35,3 +35,13 @@ and make a final version of the reading list.
 * Inspectionally read the historical texts to clarify answers.
 * If at this point there are any unanswered questions or new ones, utilize research papers to find answers.
 * If none exists, congratulations, you have a new hobby project.
+
+## Initial Inspectional Reading Outline (per book)
+* Author
+* Editor(s)
+* Tags
+* Linear Reading Required (Yes|No)
+* Notes:
+  * Table of Contents
+  * Foreword
+  * Preface
