@@ -48,6 +48,6 @@ and make a final version of the reading list.
   
 ## Franken-book
 * Given several books:
- * Broadly categorize subtopics that span all books.
- * Arrange tagged chapters from each book to form a table of contents.
- * NOTE: Each chapter should only be tagged once.
+  * Broadly categorize subtopics that span all books.
+  * Arrange tagged chapters from each book to form a table of contents.
+  * NOTE: Each chapter should only be tagged once.
